@@ -1,0 +1,6 @@
+.navbar{background-color:var(--color-2)}
+.navbar-brand{color:#fff}
+.nav-link{color:#fff}
+.nav-link:hover{color:var(--color-1)}
+.navbar-toggler{border-color:var(--color-3)}
+.navbar-toggler-icon{background-color:var(--color-1)}

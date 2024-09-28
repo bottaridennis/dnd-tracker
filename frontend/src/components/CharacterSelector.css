@@ -1,0 +1,52 @@
+.container {
+  margin-top: 20px;
+}
+
+.card {
+  background-color: var(--color-1); /* Colore di sfondo della scheda */
+  border: 1px solid var(--color-2); /* Bordo della scheda */
+}
+
+.card-header {
+  background-color: var(--color-2); /* Colore di sfondo dell'intestazione della scheda */
+  color: #fff; /* Colore del testo dell'intestazione */
+}
+
+.card-body {
+  color: #fff; /* Colore del testo del corpo della scheda */
+}
+
+.form-select {
+  background-color: var(--color-2); /* Colore di sfondo del selettore */
+  color: #fff; /* Colore del testo del selettore */
+  border: 1px solid var(--color-2); /* Colore del bordo del selettore */
+}
+
+.form-select:focus {
+  background-color: var(--color-3); /* Colore di sfondo al focus */
+  border-color: var(--color-3); /* Colore del bordo al focus */
+  color: #fff; /* Colore del testo al focus */
+}
+
+.form-control {
+  background-color: var(--color-2); /* Colore di sfondo del campo di input */
+  color: #fff; /* Colore del testo del campo di input */
+  border: 1px solid var(--color-2); /* Colore del bordo del campo di input */
+}
+
+.form-control:focus {
+  background-color: var(--color-3); /* Colore di sfondo al focus */
+  border-color: var(--color-3); /* Colore del bordo al focus */
+  color: #fff; /* Colore del testo al focus */
+}
+
+.list-group-item {
+  background-color: var(--color-1); /* Colore di sfondo degli elementi della lista */
+  border: 1px solid var(--color-2); /* Bordo degli elementi della lista */
+  color: #fff; /* Colore del testo degli elementi della lista */
+}
+
+.list-group-item:hover {
+  background-color: var(--color-2); /* Colore di sfondo al passaggio del mouse */
+  color: #fff; /* Colore del testo al passaggio del mouse */
+}

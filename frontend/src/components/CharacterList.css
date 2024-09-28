@@ -1,0 +1,19 @@
+.character-card {
+    background-color: var(--color-1); /* Colore di sfondo della scheda */
+    border: 1px solid var(--color-2); /* Bordo della scheda */
+}
+
+.character-card .card-header {
+    background-color: var(--color-2); /* Colore di sfondo dell'intestazione della scheda */
+    color: #fff; /* Colore del testo dell'intestazione */
+}
+
+.character-card .card-body {
+    color: #fff; /* Colore del testo del corpo della scheda */
+}
+
+.card-title {
+    margin: 0; /* Rimuove margini di default */
+}
+.btn{background-color: var(--color-2); border: 0;}
+.btn:hover{background-color: var(--color-3); border: 0;}
